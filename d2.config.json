@@ -1,7 +1,7 @@
 {
   "type": "app",
   "name": "line-listing",
-  "title": "Line listing",
+  "title": "Line Listing",
   "coreApp": true,
   "version": "1.1.6",
   "description": "DHIS2 Line Listing"
