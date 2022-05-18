@@ -1,4 +1,5 @@
 {
+  "app_hub_id": "a4cd3827-e717-4e09-965d-ab05df2591e5",
   "appType": "APP",
   "short_name": "line-listing",
   "name": "Line Listing",
@@ -14,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon May 16 2022 11:37:47 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed May 18 2022 08:45:47 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
