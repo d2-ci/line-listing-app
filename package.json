@@ -13,7 +13,7 @@
         "format": "d2-style apply",
         "validate-commit": "d2-style check --staged",
         "validate-push": "yarn test",
-        "start-cy-proxy": "BROWSER=none d2-app-scripts start --proxy https://test.e2e.dhis2.org/lytics-apps-dev --proxyPort 8081",
+        "start-cy-proxy": "BROWSER=none d2-app-scripts start --proxy https://debug.dhis2.org/tracker_dev --proxyPort 8081",
         "cypress:capture": "start-server-and-test 'yarn start-cy-proxy' http://localhost:3000 'yarn cypress run --env networkMode=capture'",
         "cypress:stub": "start-server-and-test 'yarn start-cy-proxy' http://localhost:3000 'yarn cypress run --env networkMode=stub'",
         "cypress:live": "start-server-and-test 'yarn start-cy-proxy' http://localhost:3000 'yarn cypress open --env networkMode=live'"
@@ -36,10 +36,9 @@
         "start-server-and-test": "^1.14.0"
     },
     "dependencies": {
-        "@dhis2/analytics": "^23.8.6",
+        "@dhis2/analytics": "^23.12.4",
         "@dhis2/app-runtime": "^3.4.0",
-        "@dhis2/d2-ui-rich-text": "^7.4.0",
-        "@dhis2/ui": "^8.2.4",
+        "@dhis2/ui": "^8.3.1",
         "@dnd-kit/core": "^5.0.3",
         "@dnd-kit/sortable": "^6.0.1",
         "@dnd-kit/utilities": "^3.1.0",
@@ -70,8 +69,7 @@
         }
     },
     "resolutions": {
-        "@dhis2/prop-types": "^1.6.4",
-        "@dhis2/ui": "^8.2.4",
+        "@dhis2/ui": "^8.3.1",
         "i18next": "^20.5.0"
     }
 }
