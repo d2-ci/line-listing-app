@@ -1,9 +1,10 @@
 {
+  "app_hub_id": "a4cd3827-e717-4e09-965d-ab05df2591e5",
   "appType": "APP",
   "short_name": "line-listing",
   "name": "Line Listing",
   "description": "DHIS2 Line Listing",
-  "version": "1.1.23",
+  "version": "100.0.0",
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
@@ -14,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Mar 30 2022 08:15:15 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Sep 16 2022 14:43:23 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
