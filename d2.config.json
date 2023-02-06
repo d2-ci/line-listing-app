@@ -5,5 +5,9 @@
   "title": "Line Listing",
   "minDHIS2Version": "2.38",
   "version": "100.0.0",
-  "description": "DHIS2 Line Listing"
+  "description": "DHIS2 Line Listing",
+  "entryPoints": {
+    "app": "index.html",
+    "plugin": "plugin.html"
+  }
 }
