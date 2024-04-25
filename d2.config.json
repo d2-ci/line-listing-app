@@ -4,7 +4,7 @@
   "id": "a4cd3827-e717-4e09-965d-ab05df2591e5",
   "title": "Line Listing",
   "minDHIS2Version": "2.38",
-  "version": "100.16.2",
+  "version": "100.17.0",
   "description": "DHIS2 Line Listing",
   "entryPoints": {
     "app": "index.html",
