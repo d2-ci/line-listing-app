@@ -4,7 +4,7 @@
   "short_name": "line-listing",
   "name": "Line Listing",
   "description": "DHIS2 Line Listing",
-  "version": "101.1.5",
+  "version": "101.1.6",
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Aug 14 2024 12:25:56 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Aug 21 2024 09:49:08 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
