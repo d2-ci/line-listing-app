@@ -5,7 +5,7 @@
   "title": "Line Listing",
   "minDHIS2Version": "2.40",
   "pluginType": "DASHBOARD",
-  "version": "102.2.2",
+  "version": "102.2.3",
   "description": "DHIS2 Line Listing",
   "entryPoints": {
     "app": "index.html",
