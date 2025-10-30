@@ -1,0 +1,24 @@
+{
+  "app_hub_id": "a4cd3827-e717-4e09-965d-ab05df2591e5",
+  "appType": "APP",
+  "short_name": "line-listing",
+  "name": "Line Listing",
+  "description": "DHIS2 Line Listing",
+  "version": "102.2.4",
+  "launch_path": "index.html",
+  "plugin_launch_path": "plugin.html",
+  "plugin_type": "DASHBOARD",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Thu Oct 30 2025 11:58:20 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
